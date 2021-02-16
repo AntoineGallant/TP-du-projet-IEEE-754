@@ -10,13 +10,13 @@ p, li {
 }
 
 html {
-  background-image: url('https://www.super-bac.com/articles/wp-content/uploads/2020/07/E3C-maths-bac.jpeg');
+  background-image: url('https://www.super-bac.com/articles/wp-content/uploads/2020/07/E3C-maths-bac.jpeg'),0.6;
 }
 
 body {
   width: 550px;
   margin: 0 auto;
-  background-color: gainsboro;
+  background-color: #228B22;
   padding: 0 25px 25px 25px;
   border: 10px solid black;
 }
